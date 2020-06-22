@@ -1,0 +1,24 @@
+.pilih_sangat_puas {
+	background-color: #3e64ff !important;
+	width: 400px !important;
+	height: 250px !important;
+	font-size: 50px !important;
+}
+
+.pilih_puas {
+	background-color: #46BFBD !important;
+	width: 400px !important;
+	height: 250px !important;
+	font-size: 50px !important;
+}
+
+.pilih_tidak_puas {
+	background-color: #F7464A !important;
+	width: 400px !important;
+	height: 250px !important;
+	font-size: 50px !important;
+}
+
+.btn:hover {
+	box-shadow: 2px 4px 7px rgba(0, 0, 0, .5);
+}
